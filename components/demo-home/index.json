@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "test1": "/pages/test1/test1",
+    "test2": "/pages/test2/test2"
+  }
+}
